@@ -1,5 +1,7 @@
 # HP820G3-Ventura-OC
 Fully functional Elitebook Hackintosh.
+
+**YOU NEED TO GENERATE NEW SMBIOS (MacBookPro14,1)**, use https://github.com/corpnewt/GenSMBIOS
 | Component  | Model |
 | ------------- | ------------- |
 | CPU  | i7-6600U |
